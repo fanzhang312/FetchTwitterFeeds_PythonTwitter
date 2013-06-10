@@ -1,5 +1,5 @@
-Run it
-======
+How to Run it
+=============
 
 $cd mysite
 
